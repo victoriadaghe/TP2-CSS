@@ -1,6 +1,6 @@
 # TP2 - CSS Práctico
 
-Este proyecto demuestra el uso de diversas propiedades y técnicas de CSS en una página HTML.
+Este proyecto podemos ver como usamos propiedades y técnicas de CSS en una página HTML.
 
 ## Archivos Principales
 
@@ -8,7 +8,7 @@ Este proyecto demuestra el uso de diversas propiedades y técnicas de CSS en una
 - `style.css`: Estilos CSS aplicados a la página.
 
 ## Secciones del Proyecto
-
+mi proyecto esta dividido en 7 secciones con sus titulos correspondientes 
 1. **Header**: Título centrado, en mayúsculas y subrayado.
 2. **Texto**: Muestra propiedades de alineación, transformación, y decoración de texto.
 3. **Cajas**: Ejemplos de `margin`, `padding`, `border-radius`, `box-shadow` y `border`.
